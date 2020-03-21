@@ -6,5 +6,7 @@ public class App
     {
         UserInterface ui=new UserInterface();
         ui.take_query();
+        HomeCost hc=new HomeCost();
+        
     }
 }
